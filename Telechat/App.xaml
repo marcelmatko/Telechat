@@ -1,0 +1,17 @@
+﻿<Application x:Class="Telechat.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Telechat"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="./View/ChatItem.xaml"/>
+                <ResourceDictionary Source="./View/ContactCard.xaml"/>
+                <ResourceDictionary Source="./View/MessageBox.xaml"/>
+                <ResourceDictionary Source="./View/CustomScrollBar.xaml"/>
+                <ResourceDictionary Source="./View/SideMenu.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

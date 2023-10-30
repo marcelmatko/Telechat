@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Name>Donald Trump</Name>
+    <Username>donaldy</Username>
+    <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+    <Messages>
+      <Message>
+        <Name>Donald Trump</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>Away</Status>
+        <MessageContent>Hey. Nice to meet you. This is my first message :)</MessageContent>
+        <Time>2022-12-10T16:58:13.0102282+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Wassup. Thanks for adding me and nice to meet you...</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+    </Messages>
+    <Status>Away</Status>
+  </Contact>
+  <Contact>
+    <Name>Telegram</Name>
+    <Username>tg</Username>
+    <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+    <Messages>
+      <Message>
+        <Name>Telegram</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Hey. Nice to meet you. This is my first message :)</MessageContent>
+        <Time>2022-12-10T16:58:24.1568411+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Wassup. Thanks for adding me and nice to meet you...</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+    </Messages>
+    <Status>Available</Status>
+  </Contact>
+  <Contact>
+    <Name>John Doe</Name>
+    <Username>johny123</Username>
+    <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+    <Messages>
+      <Message>
+        <Name>John Doe</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>DoNotDisturb</Status>
+        <MessageContent>Hey. Nice to meet you. This is my first message :)</MessageContent>
+        <Time>2022-12-10T16:45:37.1685691+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Wassup. Thanks for adding me and nice to meet you...</MessageContent>
+        <Time>2022-12-10T16:53:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+      <Message>
+        <Name>John Doe</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>DoNotDisturb</Status>
+        <MessageContent>How are you doing?</MessageContent>
+        <Time>2022-12-10T16:58:37.1685691+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>I'm pretty good, thanks for asking!</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>How about you? Are you still trading crypto and forex?</MessageContent>
+        <Time>2022-12-10T18:00:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+      <Message>
+        <Name>John Doe</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>DoNotDisturb</Status>
+        <MessageContent>I'm actually pretty solid. Haha, yeah I'm still trading crypto and forex.</MessageContent>
+        <Time>2022-12-10T18:08:37.1685691+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Nice man! Hope you like this Telechat app :)</MessageContent>
+        <Time>2022-12-10T18:00:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+    </Messages>
+    <Status>DoNotDisturb</Status>
+  </Contact>
+  <Contact>
+    <Name>Prof. Slat</Name>
+    <Username>slattt_</Username>
+    <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+    <Messages>
+      <Message>
+        <Name>Prof. Slat</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Hey. Nice to meet you. This is my first message :)</MessageContent>
+        <Time>2022-12-10T16:58:52.8824675+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Wassup. Thanks for adding me and nice to meet you...</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+    </Messages>
+    <Status>Available</Status>
+  </Contact>
+  <Contact>
+    <Name>Bruce Lee</Name>
+    <Username>brucylol</Username>
+    <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+    <Messages>
+      <Message>
+        <Name>Bruce Lee</Name>
+        <ImageSource>https://xsgames.co/randomusers/avatar.php?g=pixel</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Hey. Nice to meet you. This is my first message :)</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Left</MsgPosition>
+      </Message>
+      <Message>
+        <Name>Mallow</Name>
+        <ImageSource>https://avatars.githubusercontent.com/u/24531357?v=4</ImageSource>
+        <Messages />
+        <Status>Available</Status>
+        <MessageContent>Wassup. Thanks for adding me and nice to meet you...</MessageContent>
+        <Time>2022-12-10T17:59:08.0456293+01:00</Time>
+        <MsgPosition>Right</MsgPosition>
+      </Message>
+    </Messages>
+    <Status>Available</Status>
+  </Contact>
+</ArrayOfContact>

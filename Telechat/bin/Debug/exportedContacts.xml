@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Name>John Doe</Name>
+    <Username>lalaland123</Username>
+    <ImageSource>file:///C:/Users/Marcel/Downloads/c50b6e921189180810dbc1e165311ccc.jpg</ImageSource>
+    <Messages>
+      <Message>
+        <Name>John Doe</Name>
+        <ImageSource>file:///C:/Users/Marcel/Downloads/c50b6e921189180810dbc1e165311ccc.jpg</ImageSource>
+        <MessageContent>random</MessageContent>
+        <Time>2022-12-10T13:17:03.8148793+01:00</Time>
+        <MessagePosition>true</MessagePosition>
+      </Message>
+    </Messages>
+  </Contact>
+</ArrayOfContact>
